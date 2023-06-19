@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+
+.clock * {
+    /* font-family: 'Josefin Sans', cursive; */
+    font-size: 2rem;
+  }
